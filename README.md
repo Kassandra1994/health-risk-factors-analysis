@@ -1,4 +1,4 @@
-# 🏥 Biostatistička Analiza Faktora Rizika u Javnom Zdravlju
+# 🏥 Biostatistička Analiza Faktora Rizika 
 
 Ovaj projekat predstavlja simulaciju epidemiološkog istraživanja kakva se sprovode u **Zdravstvenim ustanovama**. Cilj projekta je identifikacija i analiza ključnih faktora rizika (poput BMI, glukoze, holesterola i navika) koji doprinose razvoju hroničnih nezaraznih bolesti u populaciji.
 
